@@ -1,6 +1,5 @@
 # user-api
 
-# stock-api
 ## Requirements
 
 For building and running the application you need:
@@ -13,7 +12,7 @@ For building and running the application you need:
 
 ### Running the code locally
 
-There are several ways to run a Spring Boot application on local machine. One way is to execute the `main` method in the `com.payconiq.stockapi.StockApiApplication` class from your IDE.
+There are several ways to run a Spring Boot application on local machine. One way is to execute the `main` method in the `com.jitpay.users.userapi.UserApiApplication` class from your IDE.
 
 Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-maven-plugin.html) like so:
 
